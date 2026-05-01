@@ -1,4 +1,4 @@
-🌦️ Australia Weather Rainfall Prediction
+# 🌦️ Australia Weather Rainfall Prediction
 
 Machine Learning project that predicts whether it will rain the next day using historical Australian weather data.
 

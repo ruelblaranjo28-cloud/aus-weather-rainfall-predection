@@ -44,17 +44,14 @@ Both models were trained and evaluated to compare their effectiveness in predict
 
 ## 📊 Visual Results
 
-Confusion Matrix
+### Confusion Matrix
+![Confusion Matrix](Australia_Outputs/confusion_matrix.png)
 
-"Confusion Matrix" (Australia_Outputs/confusion_matrix.png)
+### Feature Importance
+![Feature Importance](Australia_Outputs/aus_weather_feature_importance.png)
 
-Feature Importance
-
-"Feature Importance" (Australia_Outputs/aus_weather_feature_importance.png)
-
-Rainfall Feature Importance
-
-"Rainfall Feature Importance" (Australia_Outputs/aus_weather_rainfall_feature_importance.png)
+### Rainfall Feature Importance
+![Rainfall Feature Importance](Australia_Outputs/aus_weather_rainfall_feature_importance.png)
 
 ---
 

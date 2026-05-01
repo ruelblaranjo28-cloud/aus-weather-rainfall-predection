@@ -1,8 +1,16 @@
 # 🌦️ Australia Weather Rainfall Prediction
 
-Machine Learning project that predicts whether it will rain the next day using historical Australian weather data.
+🚀 Machine Learning project predicting next-day rainfall using real-world Australian weather data.
 
-## 🚀 Built using Python, Scikit-learn, and data visualization techniques.
+📊 Achieved 84% accuracy using Logistic Regression and Random Forest models.
+
+📌 Focus: Classification, Feature Importance, Model Evaluation
+
+## 🛠️ Built With
+- Python
+- Scikit-learn
+- Pandas, NumPy
+- Matplotlib & Seaborn
 
 ---
 
@@ -28,8 +36,18 @@ Both models were trained and evaluated to compare their effectiveness in predict
 - Overall Accuracy: ~84%
 - Strong performance in predicting No Rain
 - Lower recall for Rain, indicating difficulty detecting minority class
-
+  
 ---
+## 📊 Model Performance Summary
+
+| Metric        | Score |
+|--------------|------|
+| Accuracy     | 84%  |
+| Precision (Yes) | 0.75 |
+| Recall (Yes)    | 0.51 |
+| F1-Score (Yes)  | 0.61 |
+
+📌 Note: The model performs better at predicting "No Rain" due to class imbalance.
 
 ## 📈 Key Insights
 

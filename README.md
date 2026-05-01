@@ -2,11 +2,11 @@
 
 Machine Learning project that predicts whether it will rain the next day using historical Australian weather data.
 
-🚀 Built using Python, Scikit-learn, and data visualization techniques.
+## 🚀 Built using Python, Scikit-learn, and data visualization techniques.
 
 ---
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project builds a classification model to predict rainfall (Yes/No) based on weather features such as humidity, pressure, temperature, and wind conditions.
 
@@ -14,7 +14,7 @@ The goal is to explore machine learning techniques and evaluate model performanc
 
 ---
 
-🤖 Models Implemented
+## 🤖 Models Implemented
 
 - Logistic Regression
 - Random Forest Classifier
@@ -23,7 +23,7 @@ Both models were trained and evaluated to compare their effectiveness in predict
 
 ---
 
-📊 Model Performance
+## 📊 Model Performance
 
 - Overall Accuracy: ~84%
 - Strong performance in predicting No Rain
@@ -31,7 +31,7 @@ Both models were trained and evaluated to compare their effectiveness in predict
 
 ---
 
-📈 Key Insights
+## 📈 Key Insights
 
 - Humidity (3pm) and Pressure (3pm & 9am) are the most important predictors
 - The dataset is imbalanced, affecting prediction of rain events
@@ -42,7 +42,7 @@ Both models were trained and evaluated to compare their effectiveness in predict
 
 ---
 
-📊 Visual Results
+## 📊 Visual Results
 
 Confusion Matrix
 
@@ -58,7 +58,7 @@ Rainfall Feature Importance
 
 ---
 
-🧰 Tools & Technologies
+## 🧰 Tools & Technologies
 
 - Python
 - Pandas
@@ -68,14 +68,14 @@ Rainfall Feature Importance
 
 ---
 
-📁 Project Structure
+## 📁 Project Structure
 
 - "FinalProject_AUSWeather.ipynb" → Main notebook
 - "Australia_Outputs/" → Model visualizations and outputs
 
 ---
 
-🚀 Future Improvements
+## 🚀 Future Improvements
 
 - Apply SMOTE or resampling techniques
 - Hyperparameter tuning (GridSearchCV)
@@ -83,16 +83,16 @@ Rainfall Feature Importance
 
 ---
 
-💡 Why This Project Matters
+## 💡 Why This Project Matters
 
 Accurate rainfall prediction is important for agriculture, disaster prevention, and daily planning.
 This project demonstrates how machine learning can support real-world decision-making.
 
 ---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Ruel Laranjo
+### Ruel Laranjo
 Aspiring Data Scientist | Machine Learning Enthusiast
 📍 Philippines
 🔗 Open to Data Analyst / Junior Data Scientist roles
